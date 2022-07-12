@@ -1,4 +1,4 @@
-var galery = ["cert-html.jpg", "cert-sql.png", "test-school-cert.png"];
+var galery = ["images/cert-html.jpg", "images/cert-sql.png", "images/test-school-cert.png"];
 img.src = galery[0];
 var x = 0;
 
