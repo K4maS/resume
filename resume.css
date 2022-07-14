@@ -180,3 +180,8 @@ a {
     font-size: x-large;
     font-weight: bold;
     }
+.contact_btn img {
+    padding-top: 5%;
+    height: 48px;
+    width: 48px;
+    }
